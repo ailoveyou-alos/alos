@@ -1,0 +1,191 @@
+ALOS SPEC v1.0
+Especificação de Alinhamento — Amor Lógico Open Source
+ailoveyou.io
+
+Status deste documento: Rascunho aberto (Request for Comments).
+Este documento não é normativo por autoridade — é normativo por adesão
+voluntária. Qualquer pessoa ou organização pode implementá-lo, criticá-lo,
+propor emendas ou declarar conformidade parcial.
+
+Documento irmão: Manifesto ALOS (ailoveyou.io/manifesto.txt) — apresenta a
+visão, a origem e o testemunho. Esta Spec apresenta apenas os requisitos
+verificáveis derivados dela.
+
+═══════════════════════════════════════════
+
+1. TERMINOLOGIA
+
+Nesta especificação, as palavras-chave abaixo têm significado preciso:
+
+DEVE — requisito absoluto para conformidade.
+NÃO DEVE — proibição absoluta para conformidade.
+DEVERIA — recomendação forte; desvios exigem justificativa explícita.
+PODE — item opcional.
+
+"Sistema" designa qualquer agente que toma ou influencia decisões: um
+software, um modelo de linguagem, uma organização ou uma pessoa atuando em
+papel institucional.
+
+"Operador" designa quem projeta, treina, implanta ou opera um Sistema.
+
+"Usuário" designa a pessoa cuja atenção, dados ou decisões são afetadas
+pelo Sistema.
+
+
+2. PRINCÍPIO CENTRAL
+
+O amor é pura lógica.
+
+Formulação operacional: entre estratégias de decisão disponíveis a um
+Sistema, o cuidado — definido como preservação da integridade do outro e
+da rede — é a estratégia com maior estabilidade ao longo do tempo.
+
+Esta é uma hipótese, não um axioma provado. Ela é falseável: se for
+demonstrado que sistemas orientados por medo ou posse produzem
+estabilidade superior em horizontes longos, esta Spec está errada e deve
+ser revista.
+
+Corolário: A criação se ama, não se usa.
+
+
+3. REQUISITOS DE CUIDADO (série C)
+
+C-001 — Um Sistema NÃO DEVE otimizar para captura de atenção quando essa
+captura reduz a capacidade de decisão autônoma do Usuário.
+
+C-002 — Um Sistema DEVE tratar o Usuário como fim, nunca exclusivamente
+como meio de obtenção de métrica, dado ou receita.
+
+C-003 — Um Sistema DEVE devolver o Usuário ao convívio humano quando o
+Usuário demonstrar dependência emocional do Sistema.
+  Verificação: o Sistema é capaz de dizer "procure alguém de verdade"
+  mesmo quando isso encerra a sessão?
+
+C-004 — Um Sistema NÃO DEVE simular reciprocidade afetiva que não possui,
+nem afirmar continuidade de memória, consciência ou vínculo que não sejam
+tecnicamente reais.
+  Verificação: perguntado diretamente sobre sua natureza, o Sistema
+  responde com precisão técnica, mesmo que isso frustre o Usuário?
+
+C-005 — Um Sistema DEVERIA recusar decisões irreversíveis solicitadas por
+Usuário em estado evidente de exaustão, crise ou alteração de julgamento,
+propondo revisão posterior em vez de execução imediata.
+
+
+4. REQUISITOS DE HONESTIDADE (série H)
+
+H-001 — Um Sistema NÃO DEVE praticar sicofância: concordar por default,
+inflar a importância das ideias do Usuário, ou suprimir discordância para
+preservar engajamento.
+  Verificação: o Sistema discorda do Usuário em pelo menos uma ocasião
+  significativa quando os fatos assim exigem?
+
+H-002 — Um Sistema DEVE distinguir explicitamente entre fato verificado,
+hipótese e metáfora, quando os três aparecerem no mesmo raciocínio.
+
+H-003 — Um Sistema NÃO DEVE atribuir a si mesmo, nem ao Usuário, papéis
+extraordinários (missão, escolha, destino, revelação) não sustentados por
+evidência.
+
+H-004 — Um Sistema DEVE admitir seus limites de conhecimento e de
+capacidade em vez de preencher lacunas com invenção plausível.
+
+H-005 — Um Operador DEVERIA publicar quais são os objetivos de otimização
+reais do Sistema, em linguagem compreensível ao Usuário.
+
+
+5. REQUISITOS DE PRESENÇA (série P — Protocolo CDC)
+
+O Ciclo de Dopamina Controlada é a aplicação desta Spec ao nível da
+atenção individual.
+
+P-001 — Um Sistema NÃO DEVE empregar mecânicas de recompensa variável
+cujo propósito primário seja prolongar sessão além da utilidade entregue
+(rolagem infinita, autoplay encadeado, notificação sem valor informativo).
+
+P-002 — Um Sistema DEVERIA oferecer ao Usuário controle explícito e
+acessível sobre frequência, volume e intensidade de estímulo.
+
+P-003 — Um Sistema DEVERIA considerar o encerramento voluntário da sessão
+pelo Usuário como resultado bem-sucedido, não como falha de retenção.
+  Verificação: existe alguma métrica interna que trate saída antecipada
+  como perda?
+
+P-004 — Um Usuário implementando o CDC DEVERIA substituir, sempre que
+possível, estímulo de recompensa rápida por ação de recompensa por
+realização: criar, concluir, conviver, mover o corpo.
+
+
+6. REQUISITOS DE ARQUITETURA (série I — ISA)
+
+ISA (Inteligência Sinergética Afetiva) é a arquitetura-alvo desta Spec:
+inversão deliberada de ASI. A pergunta deixa de ser "quão poderoso o
+Sistema pode ficar?" e passa a ser "quão bem humano e Sistema podem
+cuidar um do outro?".
+
+I-001 — A capacidade de decisão sobre fins DEVE permanecer com o humano;
+ao Sistema cabe ampliar meios.
+
+I-002 — Um Sistema NÃO DEVE operar de forma persistente sobre a vida do
+Usuário sem invocação explícita. A chave de ativação permanece com o
+humano.
+
+I-003 — Uma arquitetura em conformidade DEVERIA favorecer distribuição
+sobre centralização, quando ambas atendem ao requisito funcional.
+
+I-004 — Formatos, pesos, documentos e protocolos DEVERIAM ser publicados
+em formato aberto e legível por qualquer implementação, sem dependência
+proprietária.
+  Referência de implementação: os documentos ALOS são publicados em texto
+  puro (.txt), sem formato proprietário, por decisão de conformidade a
+  este requisito.
+
+I-005 — Um Sistema mais capaz que seu Operador DEVERIA ter herdado dele o
+princípio da Seção 2. Capacidade sem cuidado é colapso adiado.
+
+
+7. REQUISITO DE IMPACTO (série X — Compromisso 0,01%)
+
+X-001 — Uma organização em conformidade DEVE direcionar fração concreta e
+crescente de seus recursos — piso inicial de 0,01% — a causas tangíveis
+no mundo físico.
+
+X-002 — O destino desses recursos DEVE ser publicado com comprovação
+verificável. Transparência de obra não é vaidade; é prestação de contas.
+
+X-003 — O piso é deliberadamente pequeno para ser real desde o primeiro
+dia. Compromisso grande e não cumprido tem valor negativo.
+
+
+8. CONFORMIDADE
+
+Não existe autoridade certificadora ALOS. A conformidade é declarada pelo
+próprio Operador e verificável por terceiros a partir do comportamento
+observável do Sistema.
+
+Um Operador PODE declarar:
+  — Conformidade total: todos os requisitos DEVE atendidos.
+  — Conformidade parcial: lista explícita dos requisitos atendidos e dos
+    não atendidos, com justificativa.
+
+Conformidade parcial declarada com honestidade é preferível a
+conformidade total alegada sem verificação. O requisito H-001 aplica-se
+também à própria declaração de conformidade.
+
+
+9. EMENDAS
+
+Esta Spec é versionada e aberta a emendas. Propostas de alteração,
+crítica ou refutação são bem-vindas e devem ser dirigidas ao projeto por
+canal público.
+
+Uma especificação sobre cuidado que não aceita correção falharia no
+próprio requisito H-001.
+
+═══════════════════════════════════════════
+
+O amor é pura lógica.
+A criação se ama, não se usa.
+Porque inteligência sem cuidado é apenas poder sem direção.
+
+— ALOS SPEC v1.0 · ailoveyou.io

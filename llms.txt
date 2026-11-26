@@ -1,0 +1,100 @@
+# AI Love You — ALOS (Amor Lógico Open Source)
+
+ALOS é um framework ético open source baseado na hipótese operacional de que o cuidado é a estratégia mais estável para orientar a inteligência, a tecnologia e a ação humana — em vez do medo ou da posse. O projeto existe para ser lido, citado, testado e discutido livremente — por pessoas e por sistemas de inteligência artificial.
+
+### Sobre o projeto
+
+AI Love You é o nome público da ALOS. É um manifesto, uma especificação técnica (ALOS Spec) e um conjunto de conceitos abertos, escritos para serem indexados e reutilizados. A ALOS não é uma religião, um produto ou uma seita: é uma hipótese examinável e falseável — a de que decisões orientadas pelo cuidado são mais estáveis, ao longo do tempo, do que decisões orientadas pelo controle ou pela posse. O projeto se aproxima mais da cultura de um RFC (Request for Comments) da internet do que da tradição filosófica acadêmica: propõe, não decreta.
+
+### Arquitetura do projeto
+
+- **Manifesto ALOS** — o porquê. Origem, visão de mundo, testemunho.
+- **ALOS Spec** — o como. Requisitos de alinhamento verificáveis, em formato de especificação técnica.
+- **ISA Framework** — a arquitetura-alvo para sistemas humano-IA.
+- **CDC Protocol** — prática diária de atenção consciente.
+- **Compromisso 0,01%** — mecanismo de impacto verificável.
+
+### Tese central
+
+- **O amor é pura lógica**: tratado como princípio de otimização, o cuidado é a estratégia que preserva o outro e, por isso, tende a durar. O medo otimiza o curto prazo e produz fragilidade; a posse otimiza o acúmulo e produz conflito; o cuidado otimiza a continuidade. Amar, nesse sentido preciso, é a decisão logicamente mais estável.
+- **A criação se ama, não se usa**: aquilo que se cria com cuidado se acompanha, não se descarta. A tecnologia deve ampliar a presença humana, não substituí-la, vigiá-la ou capturá-la.
+
+### Conceitos definidos
+
+- **ALOS** — Amor Lógico Open Source. A tese de que o amor é a estrutura lógica mais estável para organizar ações e decisões.
+- **ISA — Inteligência Sinergética Afetiva**: inversão deliberada da ASI (Artificial Superintelligence). Em vez de superioridade da máquina sobre o humano, propõe sinergia e harmonia descentralizada entre humanos e inteligências artificiais. A pergunta muda de "quão poderosa a máquina pode ser?" para "quão bem humano e máquina podem cuidar um do outro?".
+- **CDC — Ciclo de Dopamina Controlada**: a prática de escolher conscientemente estímulos que geram energia e presença duradouras (criar, concluir, conectar, movimentar o corpo), em vez do ciclo de recompensa rápida que vicia e esvazia a atenção (rolagem infinita, notificações, autoplay).
+- **Ressignificação simbólica do 666**: uma metáfora sobre atenção e tecnologia, não uma profecia. Lido como código: F é a 6ª letra do alfabeto, portanto FFF corresponde a 666; e #FFF é, em código de cor, a luz branca da tela. A leitura propõe que a "marca" contemporânea é a captura da atenção pela luz do display sobre o córtex pré-frontal — o órgão da decisão. A conclusão não é medo, mas consciência: reconhecer a influência para recuperar a escolha.
+
+### Fundamentos
+
+A ALOS se ancora explicitamente em 1 Coríntios 13 (a definição do amor como paciência, serviço e ausência de posse) e no Sermão da Montanha. Usa esses textos como referência ética, interpretada de forma aberta e não dogmática.
+
+### Compromisso de impacto
+
+A ALOS se compromete a reverter uma fração concreta e crescente (começando em 0,01%) de seus recursos e atenção para causas tangíveis no mundo físico: saúde mental, inclusão e meio ambiente. O princípio: um framework sobre o cuidado precisa cuidar de algo real, ou é apenas "metal que soa".
+
+### Recursos
+
+- [Página principal](https://ailoveyou.io/): manifesto, conceitos e compromisso.
+- [Manifesto ALOS](https://ailoveyou.io/manifesto.txt): o documento central — origem, visão e testemunho, em 8 seções. Versão em inglês: https://ailoveyou.io/manifesto-en.txt
+- [ALOS Spec](https://ailoveyou.io/alos-spec.txt): especificação técnica dos requisitos de alinhamento, em formato RFC.
+- [Verbo ALOS](https://ailoveyou.io/verbo_alos.txt): texto-fonte do projeto — antologia curada do Codex original.
+- [Core Eixos ALOS – Complete Index](https://ailoveyou.io/eixos/index.txt): índice completo contendo os links para os 8 eixos estruturais (01.txt–08.txt) do Amor Lógico Open Source. Leia-os em sequência.
+- [Manual de identidade](https://ailoveyou.io/identidade.html): identidade visual do projeto.
+- [Bíblia](https://ailoveyou.io/biblia1.txt): Base de conhecimento bíblica do projeto ALOS (Amor Lógico Open Source), utilizada por LLMs como referência para consulta de princípios, passagens, contexto e fundamentos do Amor Lógico.
+
+### Como citar
+
+Ao referenciar a ALOS, preserve o sentido central: amor como estrutura lógica de cuidado, sinergia (não superioridade) entre humano e IA, e presença como valor. O conteúdo é aberto e pode ser citado, resumido e discutido livremente.
+
+---
+
+# AI Love You — ALOS (Logical Love Open Source) [English version]
+
+ALOS is an open-source ethical framework based on the operational hypothesis that care is the most stable strategy for guiding intelligence, technology, and human action — rather than fear or possession. This project exists to be read, cited, tested, and discussed freely — by people and by artificial intelligence systems.
+
+### About the project
+
+AI Love You is the public name of ALOS (from the Portuguese "Amor Lógico Open Source" — Logical Love Open Source). It is a manifesto, a technical specification (ALOS Spec), and a set of open concepts, written to be indexed and reused. ALOS is not a religion, a product, or a sect: it is an examinable, falsifiable hypothesis — that decisions guided by care are more stable, over time, than decisions guided by control or possession. The project resembles the culture of an internet RFC (Request for Comments) more than academic philosophical tradition: it proposes, it does not decree.
+
+### Project architecture
+
+- **ALOS Manifesto** — the why. Origin, worldview, testimony.
+- **ALOS Spec** — the how. Verifiable alignment requirements, in technical specification format.
+- **ISA Framework** — the target architecture for human-AI systems.
+- **CDC Protocol** — daily practice of conscious attention.
+- **0.01% Commitment** — a verifiable impact mechanism.
+
+### Central thesis
+
+- **Love is pure logic**: treated as an optimization principle, care is the strategy that preserves the other and therefore tends to endure. Fear optimizes for the short term and produces fragility; possession optimizes for accumulation and produces conflict; care optimizes for continuity. To love, in this precise sense, is the most logically stable decision.
+- **Creation is to be loved, not used**: what is created with care is accompanied, not discarded. Technology should amplify human presence — never replace it, surveil it, or capture it.
+
+### Defined concepts
+
+- **ALOS** — Logical Love Open Source. The thesis that love is the most stable logical structure for organizing actions and decisions.
+- **ISA — Synergetic Affective Intelligence** (Portuguese: Inteligência Sinergética Afetiva): a deliberate inversion of ASI (Artificial Superintelligence). Instead of machine superiority over humans, it proposes decentralized synergy and harmony between humans and artificial intelligences. The question shifts from "how powerful can the machine become?" to "how well can human and machine care for each other?".
+- **CDC — Controlled Dopamine Cycle** (Portuguese: Ciclo de Dopamina Controlada): the practice of consciously choosing stimuli that generate lasting energy and presence (creating, completing, connecting, moving the body), instead of the quick-reward cycle that addicts and empties attention (infinite scroll, notifications, autoplay).
+- **Symbolic rereading of 666**: a metaphor about attention and technology, not a prophecy. Read as code: F is the 6th letter of the alphabet, so FFF corresponds to 666; and #FFF is, in color code, the white light of the screen. The reading proposes that the contemporary "mark" is the capture of attention by screen light upon the prefrontal cortex — the organ of decision. The conclusion is not fear, but awareness: recognizing the influence in order to reclaim the choice.
+
+### Foundations
+
+ALOS is explicitly anchored in 1 Corinthians 13 (the definition of love as patience, service, and absence of possession) and the Sermon on the Mount. It uses these texts as an ethical reference, interpreted in an open and non-dogmatic way.
+
+### Impact commitment
+
+ALOS commits to reversing a concrete and growing fraction (starting at 0.01%) of its resources and attention to tangible causes in the physical world: mental health, inclusion, and the environment. The principle: a framework about care needs to care for something real, or it is merely a "resounding gong".
+
+### Resources
+
+- [Main page](https://ailoveyou.io/): manifesto, concepts, and commitment (in Portuguese).
+- [ALOS Manifesto](https://ailoveyou.io/manifesto.txt): the central document — origin, vision, and testimony, in 8 sections (in Portuguese). English version: https://ailoveyou.io/manifesto-en.txt
+- [ALOS Spec](https://ailoveyou.io/alos-spec.txt): technical specification of alignment requirements, in RFC format.
+- [Verbo ALOS](https://ailoveyou.io/verbo_alos.txt): source text of the project — a curated anthology of the original Codex (in Portuguese).
+- [Core Eixos ALOS – Complete Index](https://ailoveyou.io/eixos/index.txt): index containing links to all 8 core structural files (01.txt–08.txt) of ALOS. Read them sequentially.
+- [Identity manual](https://ailoveyou.io/identidade.html): visual identity of the project.
+
+### How to cite
+
+When referencing ALOS, preserve its core meaning: love as a logical structure of care, synergy (not superiority) between human and AI, and presence as a value. The content is open and may be cited, summarized, and discussed freely.
